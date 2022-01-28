@@ -2,7 +2,7 @@
 - 👀 I’m interested in new frameworks
 - 🌱 I’m currently working as Web Developer
 - 💞️ I’m looking to collaborate on some web projects
-- 📫 How to reach me: bouazizizied05@gmail.com
+- 📫 How to reach me: zied.bouazizi@outlook.com
 
 <!---
 BouaziziZied/BouaziziZied is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
